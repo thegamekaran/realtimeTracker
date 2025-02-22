@@ -46,3 +46,5 @@ server.listen(3000, () => {
 //run command npx nodemon app.js
 //open browser and type localhost:3000
 //open another tab and type localhost:3000
+
+// Triggering the ci cd
